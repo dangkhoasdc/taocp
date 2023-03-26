@@ -18,3 +18,12 @@ working through the Art of Computer Programming
 |12a| [Components and traversal](pre-fascicles/fasc12a.pdf) |
 |14a| [Bipartite Matching](pre-fasciles/fasc14a.pdf) |
 |20a| [Introduction to recursion](pre-fascicles/fasc20a.pdf) |
+
+# XMas Lectures
+
+- [XMax Lectures](https://www.youtube.com/watch?v=3DKo219ZHMw&list=PLoROMvodv4rOAvKVR_dyCigSBMcYjevYB&ab_channel=StanfordOnline) related to TAOCP 
+
+| Lecture | Content |
+|---------|---------|
+| Dancing Links | Note |
+| Sideway Heaps | Note |
