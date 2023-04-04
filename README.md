@@ -18,3 +18,8 @@ working through the Art of Computer Programming
 |12a| [Components and traversal](pre-fascicles/fasc12a.pdf) |
 |14a| [Bipartite Matching](pre-fasciles/fasc14a.pdf) |
 |20a| [Introduction to recursion](pre-fascicles/fasc20a.pdf) |
+
+# Code
+
+## Chapter 2
+- [Knuth Elevator Simulator (Sec 2.2.5)](https://github.com/Quuxplusone/KnuthElevator/tree/main).
