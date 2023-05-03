@@ -16,7 +16,7 @@ working through the Art of Computer Programming
 |9b | [A Potpourri of puzzles](pre-fascicles/fasc9b.pdf) |
 |9c | [Estimating backtrack costs](pre-fascicles/fasc9c.pdf) |
 |12a| [Components and traversal](pre-fascicles/fasc12a.pdf) |
-|14a| [Bipartite Matching](pre-fasciles/fasc14a.pdf) |
+|14a| [Bipartite Matching](pre-fascicles/fasc14a.pdf) |
 |20a| [Introduction to recursion](pre-fascicles/fasc20a.pdf) |
 
 # Code
