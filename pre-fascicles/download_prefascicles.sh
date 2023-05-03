@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
 
-set -Eeuo pipefail
-
 case ${1-} in
   download)
     for i in {7..20}; do
