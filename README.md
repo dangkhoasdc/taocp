@@ -24,7 +24,7 @@ working through the Art of Computer Programming
 ## Chapter 2
 - [Knuth Elevator Simulator (Sec 2.2.5)](https://github.com/Quuxplusone/KnuthElevator/tree/main).
 
-## Chapter 3
+## Chapter 5
 ### 5.2.3 Sorting by Selection
 - Ex 36. 
   - [Leetcode practice](https://leetcode.com/problems/lru-cache/)
