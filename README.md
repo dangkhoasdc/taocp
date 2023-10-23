@@ -29,3 +29,7 @@ working through the Art of Computer Programming
 - Ex 36. 
   - [Leetcode practice](https://leetcode.com/problems/lru-cache/)
   - [OrderedDict](https://docs.python.org/3/library/collections.html#collections.OrderedDict): `OrderedDict` uses the same implementation as Knuth mentioned in the solution.
+  
+## Chapter 7
+### 7.2.2.2 Satisfiability
+- [SAT/SMT by Example](https://smt.st) contains many answers for exercises of this section, focusing on using SMT/SAT solvers to formulate the problems.
