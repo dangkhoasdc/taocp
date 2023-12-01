@@ -33,3 +33,8 @@ working through the Art of Computer Programming
 ## Chapter 7
 ### 7.2.2.2 Satisfiability
 - [SAT/SMT by Example](https://smt.st) contains many answers for exercises of this section, focusing on using SMT/SAT solvers to formulate the problems.
+
+# Misc
+
+- [Ask HN: Is Knuth's TAOCP worth the time and effort? (2023)](https://news.ycombinator.com/item?id=38443668)
+- [Ask HN: Is Knuth's TAOCP worth the time and effort? (2016)](https://news.ycombinator.com/item?id=10897460)
