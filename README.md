@@ -22,7 +22,10 @@ working through the Art of Computer Programming
 # Code
 
 ## Chapter 2
-- [Knuth Elevator Simulator (Sec 2.2.5)](https://github.com/Quuxplusone/KnuthElevator/tree/main).
+- 2.2.5: Knuth's Elevator Simulator 
+  - [C++ Implementation](https://github.com/Quuxplusone/KnuthElevator/tree/main)
+  - [Go Implementation](https://github.com/meatfighter/knuth-elevator)
+  - [Relevant Discussion on HN](https://news.ycombinator.com/item?id=27778210)
 
 ## Chapter 5
 ### 5.2.3 Sorting by Selection
