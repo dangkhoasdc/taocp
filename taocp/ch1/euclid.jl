@@ -17,11 +17,9 @@ end
 
 function euclid_gcd_f(m, n)
   while true
-    r = m % n
-    r == 0 && return n;
-    m = n % r
-    m == 0 && return r;
-    n = r % m
+    m = m % n
+    m == 0 && return n;
+    n = n % m
     n == 0 && return m;
   end
 end
