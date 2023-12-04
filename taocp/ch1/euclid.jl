@@ -14,8 +14,25 @@ function euclid_gcd(m, n)
   end
 end
 
+
+function euclid_gcd_f(m, n)
+  while true
+    r = m % n
+    r == 0 && return n;
+    m = n % r
+    m == 0 && return r;
+    n = r % m
+    n == 0 && return m;
+  end
+end
+
 @testset "Examples" begin
   @test euclid_gcd(119, 544) == 17
   # 1.1 E6
   @test euclid_gcd(2166, 6099) == 57
+end
+
+@testset "1.1 E3" begin
+  @test euclid_gcd_f(119, 544) == 17
+  @test euclid_gcd_f(2166, 6099) == 57
 end
