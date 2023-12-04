@@ -16,4 +16,6 @@ end
 
 @testset "Examples" begin
   @test euclid_gcd(119, 544) == 17
+  # 1.1 E6
+  @test euclid_gcd(2166, 6099) == 57
 end
