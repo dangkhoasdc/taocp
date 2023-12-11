@@ -37,6 +37,9 @@ working through the Art of Computer Programming
 ### 7.2.2.2 Satisfiability
 - [SAT/SMT by Example](https://smt.st) contains many answers for exercises of this section, focusing on using SMT/SAT solvers to formulate the problems.
 
+# Christmas Tree Lecture
+- [Dancing Cells (2023)](https://www.youtube.com/watch?v=622iPkJfYrI&ab_channel=StanfordOnline)
+
 # Misc
 
 - [Ask HN: Is Knuth's TAOCP worth the time and effort? (2023)](https://news.ycombinator.com/item?id=38443668)
