@@ -19,22 +19,20 @@ working through the Art of Computer Programming
 |14a| [Bipartite Matching](pre-fascicles/fasc14a.pdf) |
 |20a| [Introduction to recursion](pre-fascicles/fasc20a.pdf) |
 
-# Code
-
-## Chapter 2
+# Chapter 1
+# Chapter 2
 - 2.2.5: Knuth's Elevator Simulator 
   - [C++ Implementation](https://github.com/Quuxplusone/KnuthElevator/tree/main)
   - [Go Implementation](https://github.com/meatfighter/knuth-elevator)
   - [Relevant Discussion on HN](https://news.ycombinator.com/item?id=27778210)
 
-## Chapter 5
+# Chapter 5
 ### 5.2.3 Sorting by Selection
 - Ex 36. 
   - [Leetcode practice](https://leetcode.com/problems/lru-cache/)
   - [OrderedDict](https://docs.python.org/3/library/collections.html#collections.OrderedDict): `OrderedDict` uses the same implementation as Knuth mentioned in the solution.
   
-## Chapter 7
-### 7.2.2.2 Satisfiability
+#### 7.2.2.2 Satisfiability
 - [SAT/SMT by Example](https://smt.st) contains many answers for exercises of this section, focusing on using SMT/SAT solvers to formulate the problems.
 
 # Christmas Tree Lecture
