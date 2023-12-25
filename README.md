@@ -32,6 +32,10 @@ working through the Art of Computer Programming
   - [Leetcode practice](https://leetcode.com/problems/lru-cache/)
   - [OrderedDict](https://docs.python.org/3/library/collections.html#collections.OrderedDict): `OrderedDict` uses the same implementation as Knuth mentioned in the solution.
   
+# Chapter 7
+### 7.1.3 Bitwise tricks and techniques
+- [Gosper's Hack](https://read.seas.harvard.edu/~kohler/class/cs207-s12/lec12.html): Exercises 20, 21, 22. 
+    - [Python code](https://github.com/alussana/TrieSUS/blob/bbfd1a7579f9fb321e6f47d73e38a3eea59aa49e/triesus/naive_sus.py#L4)
 #### 7.2.2.2 Satisfiability
 - [SAT/SMT by Example](https://smt.st) contains many answers for exercises of this section, focusing on using SMT/SAT solvers to formulate the problems.
 
